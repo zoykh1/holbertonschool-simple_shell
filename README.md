@@ -99,7 +99,7 @@ valgrind --leak-check=full ./hsh
 
 ## Authors
 ```markdown
-- [@Zoy](https://github.com/zoykh1)
+- @Zoy
 ```
 
 ## Notes
