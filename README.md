@@ -35,6 +35,21 @@ int main(int argc, char **argv);
 - Utilisation de la variable `PATH` pour localiser les binaires.
 - Prise en charge des signaux et gestion du EOF (`Ctrl+D`).
 
+ ```gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+
+- **Ubuntu 20.04 LTS**
+- **GCC**
+- **Git**
+
+$ ./hsh
+($) ls
+main.c shell.c hsh
+($) pwd
+/home/user/simple_shell
+($) exit
+
+
+
 
 
 
